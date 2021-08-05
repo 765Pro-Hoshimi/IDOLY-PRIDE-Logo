@@ -1,6 +1,6 @@
 <h1 align="center">
 
-![IDOLY PRIDE Logo](Logos/idoly-pride-logo-black.svg)
+![IDOLY PRIDE Logo](Logo/idoly-pride-logo-black.svg)
 
 </h1>
 
