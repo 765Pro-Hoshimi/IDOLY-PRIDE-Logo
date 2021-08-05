@@ -18,7 +18,7 @@ IDOLY PRIDE企画に出てくるすべてのロゴをSVGにして、マネージ
 
 ## プロジェクトの進度
 
-[TODO](TODO.md)
+[Status](Status.md)
 
 ## ライセンス
 

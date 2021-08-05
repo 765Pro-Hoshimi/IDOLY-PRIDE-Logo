@@ -18,7 +18,7 @@ All the logos that appear in the IDOLY PRIDE project are made into SVG, which is
 
 ## Project schedule
 
-[TODO](TODO.md)
+[Status](Status.md)
 
 ## License
 
