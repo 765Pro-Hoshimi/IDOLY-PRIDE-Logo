@@ -2,8 +2,8 @@
 
 ## Project IDOLY PRIDE Logo
 
-+ - [ ] Project blue version
-+ - [ ] White version
++ - [x] Project blue version
++ - [x] White version
 + - [x] Black version
 
 ## 星見プロダクション所属
