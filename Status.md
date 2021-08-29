@@ -33,7 +33,7 @@
     + - [ ] 鈴村 優 Sign
     + - [ ] 奥山 すみれ Sign
 + - [ ] LizNoir
-    + - [ ] LizNoir Logo
+    + - [x] LizNoir Logo
     + - [ ] 神崎莉央 Sign
     + - [ ] 井川葵 Sign
     + - [ ] 小美山愛 Sign
