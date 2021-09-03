@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="330"
+   height="220"
+   viewBox="0 0 87.312502 58.208335"
+   version="1.1"
+   id="svg5">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2">
+    <rect
+       x="669"
+       y="72"
+       width="824"
+       height="156"
+       id="rect8483" />
+    <rect
+       x="396.66666"
+       y="78"
+       width="281.66666"
+       height="142"
+       id="rect24819" />
+  </defs>
+  <path
+     id="Hoshimi Logo"
+     style="display:inline;fill:#0091cd;fill-opacity:1;stroke-width:1"
+     d="M 43.656252,11.1125 20.902084,29.104167 43.656252,47.095834 66.410419,29.104167 Z m 0,7.893574 c 1.574932,0 2.287394,4.270346 3.56154,5.196067 1.274146,0.925722 5.555843,0.283438 6.042525,1.781287 0.48668,1.497848 -3.354946,3.495127 -3.841626,4.992976 -0.486682,1.497848 1.447263,5.371568 0.173115,6.29729 -1.274146,0.925721 -4.360622,-2.110465 -5.935554,-2.110465 -1.574933,0 -4.661409,3.036186 -5.935555,2.110465 -1.274148,-0.925722 0.659797,-4.799442 0.173115,-6.29729 -0.48668,-1.497849 -4.328306,-3.495128 -3.841626,-4.992976 0.48668,-1.497849 4.768379,-0.855565 6.042525,-1.781287 1.274149,-0.925721 1.986608,-5.196067 3.561541,-5.196067 z M 43.656252,0 0,29.104167 43.656252,58.208334 87.312503,29.104167 Z m 0,5.4239584 L 76.332294,29.104167 43.656252,52.784376 10.980209,29.104167 Z" />
+</svg>
