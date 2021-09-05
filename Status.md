@@ -10,12 +10,12 @@
 
 + - [x] 星見プロダクション
     + - [x] [星見プロダクション logo](./Logo/hoshimi-production-logo.svg)
-    + - [x] [星見プロダクション name](./Logo/hoshimi-production-logo.svg)
-    + - [x] [星見プロダクション full logo](./Logo/hoshimi-production-logo.svg)
+    + - [x] [星見プロダクション name](./Name/hoshimi-production-name.svg)
+    + - [x] [星見プロダクション full logo](./Logo/hoshimi-production-logo-full.svg)
 + - [ ] 月のテンペスト
-    + - [ ] 月のテンペスト logo
-    + - [ ] 月のテンペスト name
-    + - [ ] 月のテンペスト full logo
+    + - [x] [月のテンペスト logo](./Logo/tsuki-no-tempest-logo.svg)
+    + - [x] [月のテンペスト name](./Name/tsuki-no-tempest-name.svg)
+    + - [x] [月のテンペスト full logo](./Logo/tsuki-no-tempest-logo-full.svg)
     + - [ ] 長瀬琴乃 sign
     + - [ ] 伊吹渚 sign
     + - [ ] 白石沙季 sign
