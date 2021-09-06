@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[简体中文](README.md) | 日本語 | [English](README.EN.md)
+[简体中文](README.md) | 日本語 | [English](README.en.md)
 
 </div>
 

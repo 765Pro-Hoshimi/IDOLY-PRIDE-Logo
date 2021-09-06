@@ -30,7 +30,7 @@
     + - [ ] 佐伯遙子 sign
     + - [ ] 白石千紗 sign
     + - [ ] 兵藤雫 sign
-+ - [ ] 長瀬麻奈 sign
++ - [x] [長瀬麻奈 sign](./Sign/nagase-mana-sign.svg)
 
 ## 前·范制作旗下 / 元·バンプロダクション所属 / Van Production
 
