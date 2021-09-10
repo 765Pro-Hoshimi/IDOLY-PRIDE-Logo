@@ -2,9 +2,15 @@
 
 ## Project IDOLY PRIDE logo
 
-+ - [x] [Project blue version](./Logo/idoly-pride-logo-blue.svg)
-+ - [x] [White version](./Logo/idoly-pride-logo-white.svg)
-+ - [x] [Black version](./Logo/idoly-pride-logo-black.svg)
++ - [x] English logo
+    + - [x] [Project blue version](./Logo/idoly-pride-logo-blue.svg)
+    + - [x] [White version](./Logo/idoly-pride-logo-white.svg)
+    + - [x] [Black version](./Logo/idoly-pride-logo-black.svg)
+
++ - [x] 片仮名 logo
+    + - [x] [Project blue version](./Logo/idoly-pride-logo-kana-blue.svg)
+    + - [x] [White version](./Logo/idoly-pride-logo-kana-white.svg)
+    + - [x] [Black version](./Logo/idoly-pride-logo-kana-black.svg)
 
 ## 星见制作旗下 / 星見プロダクション所属 / Hoshimi Production
 

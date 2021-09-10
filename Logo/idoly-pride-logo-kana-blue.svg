@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="1100"
+   height="146"
+   version="1.1"
+   id="svg147306">
+  <title
+     id="title18">IDOLY PRIDE Logo (Katakana blue Version)</title>
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>IDOLY PRIDE Logo (Katakana blue Version)</dc:title>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc/4.0/" />
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>765プロダクション星見支社</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>© 2019 Project IDOLY PRIDE</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>765プロダクション星見支社</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs2" />
+  <g
+     id="idoly-pride-logo-kana">
+    <path
+       id="ア"
+       d="m 0,11.36758 v 21.98026 h 45.4703 c 8.806512,0 11.796819,8.16638 11.796819,17.80626 l 22.305911,0.11102 c 0,-20.67428 -4.33459,-34.15345 -22.735156,-39.89754 z M 21.595432,41.6811 v 42.82084 c -0.04281,16.71626 -7.800765,22.20264 -19.7008362,34.10271 l 17.0513622,13.26217 c 7.340283,-7.45833 23.853026,-24.17979 23.874867,-39.7865 V 41.6811 Z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="イ-1"
+       d="m 202.09268,4.92891 -75.15475,57.66673 11.53039,15.031 27.50123,-21.09958 v 73.44518 H 184.9155 V 41.98453 l 28.70759,-22.02466 z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="ド-1"
+       d="m 306.16669,4.17108 v 28.42188 h 9.09406 V 4.17108 Z m 11.74798,0 v 28.42188 h 9.09258 V 4.17108 Z m -45.85071,7.57838 0.003,119.35953 h 20.4591 l -7.4e-4,-58.35207 c 10.78882,11.21635 31.45071,25.00719 31.45071,25.00719 l 11.74502,-15.91463 c 0,0 -44.5886,-32.39501 -43.1949,-42.81785 V 11.74946 Z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="リ"
+       d="m 395.97053,4.92891 v 64.41627 h 20.84055 V 4.92891 Z m 40.54139,6.43867 v 54.18839 c -0.0739,16.99209 -22.1369,43.90307 -36.75219,57.9776 l 17.05135,12.12246 C 432.71702,119.48246 457.7168,88.03701 457.7373,69.34518 v -57.9776 z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="ー"
+       d="m 514.57223,60.81947 h 62.14272 v 20.84055 h -62.14272 z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="プ"
+       d="m 693.42211,0 c -9.72945,6.4e-4 -17.87685,7.3707 -18.84976,17.05138 h -47.08366 v 22.35769 h 46.98745 v 33.72529 c 0.086,13.58254 -27.65552,51.90041 -37.13704,61.38193 l 16.2965,10.61271 c 11.10674,-11.10678 40.61277,-50.54799 40.54138,-68.20545 V 37.87711 C 704.33889,37.4719 712.36818,29.1159 712.36803,18.94596 712.36803,8.4824 703.88567,0 693.42211,0 Z m -0.18491,11.36758 c 0.0618,-7.2e-4 0.12314,-7.2e-4 0.18491,0 4.1854,0 7.57838,3.39294 7.57838,7.57838 0,4.18545 -3.39298,7.57838 -7.57838,7.57838 -4.18545,0 -7.57838,-3.39293 -7.57838,-7.57838 -0.001,-4.11424 3.28032,-7.47793 7.39335,-7.57838 z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="ラ"
+       d="m 768.45101,4.92891 v 20.84056 h 57.59276 V 4.92891 Z m -4.92892,30.31352 v 22.35772 h 42.43609 v 11.74503 c 0.0826,13.15604 -17.65492,42.89723 -32.96309,62.52164 l 15.15675,12.12543 c 17.42068,-19.08219 37.96283,-53.05521 37.89193,-70.85789 V 35.24243 Z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="イ-2"
+       d="m 960.68889,4.92891 -75.15481,57.66673 11.53045,15.031 27.50122,-21.09958 v 73.44518 h 18.94593 V 41.98453 l 28.70759,-22.02466 z"
+       style="fill:#1428ff;fill-opacity:1" />
+    <path
+       id="ド-2"
+       d="m 1070.4467,4.1715 v 28.41851 h 8.7151 V 4.17066 Z m 11.745,-7.2e-4 v 28.41934 h 9.0955 V 4.17078 Z m -45.8448,7.57876 v 119.35953 h 20.4602 V 72.75699 c 10.7888,11.21636 31.4517,25.00719 31.4517,25.00719 l 11.7435,-15.91914 c 0,0 -44.5919,-32.39057 -43.1982,-42.81341 V 11.74946 Z"
+       style="fill:#1428ff;fill-opacity:1" />
+  </g>
+</svg>
