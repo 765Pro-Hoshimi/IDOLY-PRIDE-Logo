@@ -12,6 +12,11 @@
     + - [x] [White version](./Logo/idoly-pride-logo-kana-white.svg)
     + - [x] [Black version](./Logo/idoly-pride-logo-kana-black.svg)
 
++ - [x] Full logo
+    + - [x] [Project blue version](./Logo/idoly-pride-logo-full-blue.svg)
+    + - [x] [White version](./Logo/idoly-pride-logo-full-white.svg)
+    + - [x] [Black version](./Logo/idoly-pride-logo-full-black.svg)
+
 ## 星见制作旗下 / 星見プロダクション所属 / Hoshimi Production
 
 + - [x] 星見プロダクション
