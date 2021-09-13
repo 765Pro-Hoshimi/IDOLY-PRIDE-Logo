@@ -1,10 +1,12 @@
-<h1 align="center">
+<h2 align="center">
 
-![IDOLY PRIDE Logo](Logo/idoly-pride-logo-black.svg)
+![IDOLY PRIDE Logo](Logo/idoly-pride-logo-full-blue.svg)
 
-</h1>
+</h2>
 
 <div align="center">
+
+[![クリエイティブ・コモンズ 表示 - 非営利 4.0 国際 ライセンス](https://forthebadge.com/images/badges/cc-by-nd.svg)](http://creativecommons.org/licenses/by-nc/4.0/) ![Built with love](https://forthebadge.com/images/badges/built-with-love.svg) ![Designed in Inkscape](https://forthebadge.com/images/badges/designed-in-inkscape.svg) ![Ctrl C Ctrl V](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
 
 [简体中文](README.md) | 日本語 | [English](README.en.md)
 
