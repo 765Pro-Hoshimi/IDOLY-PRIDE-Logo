@@ -13,10 +13,12 @@
 </div>
 
 ## Announcement
-__All works in this repository are released in compliance with [The Contents Guideline of QualiArts, Inc.](https://qualiarts.jp/guideline/) ([There is a archive in Wayback Machine.](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline))__
+
+**All works in this repository are released in compliance with [The Contents Guideline of QualiArts, Inc.](guideline.md) ([There is a archive in Wayback Machine.](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline))**
 
 ## Introduce
-All the logos that appear in the IDOLY PRIDE project are made into SVG, which is convenient for managers to use.
+
+The maintainers of this repository have made all the logos that appear in the Project IDOLY PRIDE series into SVG, so that managers can use them freely.
 
 ## Project schedule
 

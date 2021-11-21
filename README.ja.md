@@ -13,10 +13,12 @@
 </div>
 
 ## 声明
-__本リポジトリのすべての作品は、[株式会社QualiArts著作物利用ガイドライン](https://qualiarts.jp/guideline/)（[ウェイバックマシンのバックアップ](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline)）を遵守して配布されています。__
+
+**本リポジトリのすべての作品は、[株式会社 QualiArts 著作物利用ガイドライン](guideline.md)（[ウェイバックマシンのバックアップ](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline)）を遵守して配布されています。**
 
 ## 紹介
-IDOLY PRIDE企画に出てくるすべてのロゴをSVGにして、マネージャーの皆さんに使い易いです。
+
+このプロジェクトは、Project IDOLY PRIDE シリーズに登場するすべてのロゴを SVG に作成し、各マネージャーが自由に利用できるようにすることを目的としています。
 
 ## プロジェクトの進度
 
