@@ -14,7 +14,9 @@
 
 ## Announcement
 
-**All works in this repository are released in compliance with [The Contents Guideline of QualiArts, Inc.](guideline.md) ([There is a archive in Wayback Machine.](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline))**
+**All works in this repository are released in compliance with [_The Contents Guideline of QualiArts, Inc._](guideline.md) ([There is a archive in Wayback Machine.](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline))**
+
+This repository has no affiliation with QualiArts, Inc. and any third-party companies. All images, logos and trademarks are property of their respective owners.
 
 ## Introduce
 

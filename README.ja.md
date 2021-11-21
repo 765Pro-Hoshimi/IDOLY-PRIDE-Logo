@@ -14,7 +14,9 @@
 
 ## 声明
 
-**本リポジトリのすべての作品は、[株式会社 QualiArts 著作物利用ガイドライン](guideline.md)（[ウェイバックマシンのバックアップ](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline)）を遵守して配布されています。**
+**本リポジトリのすべての作品は、[「株式会社 QualiArts 著作物利用ガイドライン」](guideline.md)（[ウェイバックマシンのバックアップ](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline)）を遵守して配布されています。**
+
+このリポジトリは株式会社 QualiArts やどの第三者会社とも関係ありません。すべての画像、ロゴ、商標はそれぞれの所有者の財産です。
 
 ## 紹介
 
