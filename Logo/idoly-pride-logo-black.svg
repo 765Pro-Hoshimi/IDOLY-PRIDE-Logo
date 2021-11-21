@@ -62,42 +62,42 @@
     <path
        id="I_1"
        d="M 0,138 H 25 V 2 H 0 Z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="D_1"
        d="M 75,2 H 63 v 25 h 12 c 24,0 42,18 42,42 0,24 -18,43 -42,43 H 63 v 25 h 12 c 37,0 66,-30 66,-68 C 142,32 113,2 75,2 Z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="O"
        d="m 234,0 c -38,0 -68,31 -68,70 0,39 30,70 68,70 38,0 68,-31 68,-70 C 302,31 271,0 234,0 Z m -1,25 c 24,0 43,20 43,45 1,25 -18,45 -42,45 -24,0 -44,-20 -44,-45 0,-25 19,-45 43,-45 z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="L"
        d="m 361,2 h -25 v 136 h 72 v -25 h -47 z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="Y"
        d="M 465,50 434,2 h -30 l 49,75 v 61 h 25 V 77 L 527,2 h -30 z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="P"
        d="m 640,2 h -47 v 25 h 47 c 7,0 13,6 13,13 0,7 -6,13 -13,13 h -47 v 85 h 25 V 78 h 22 C 661,78 678,61 678,40 678,19 661,2 640,2 Z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="R"
        d="m 708,2 v 25 h 68 c 7,0 12,6 12,13 0,7 -6,13 -12,13 h -46 l 55,85 h 30 L 776,79 C 797,78 813,61 813,40 813,19 796,2 776,2 Z m 0,76 v 60 h 25 V 78 Z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="I_2"
        d="m 849,138 h 25 V 2 h -25 z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="D_2"
        d="m 924,2 h -12 v 25 h 12 c 24,0 42,18 42,42 0,24 -18,43 -42,43 h -12 v 25 h 12 c 37,0 66,-30 66,-68 C 990,32 961,2 924,2 Z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
     <path
        id="E"
        d="m 1025,2 v 25 h 75 V 2 Z m 0,55 v 26 h 75 V 57 Z m 0,56 v 25 h 75 v -25 z"
-       style="fill:#000000;fill-opacity:1" />
+       style="fill:#000000" />
   </g>
 </svg>
