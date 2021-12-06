@@ -16,7 +16,7 @@
 
 **本仓库的所有作品皆在遵守 [《QualiArts 股份有限公司作品著作权使用指南》](guideline.md)（[互联网档案馆的备份](https://web.archive.org/web/20210804165602/https://qualiarts.jp/guideline)）的前提下释出。**
 
-您可以 [点此阅读](guideline.zh-cn.md) 简体中文参考译文。
+您可以 [点此阅读](guideline.zh-Hans-CN.md) 简体中文参考译文。
 
 本仓库与 QualiArts, Inc. 及其关联的第三方企业没有关联。所有图片、标志及注册商标均归其各自所有者所有。
 
