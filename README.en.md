@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Creative Commons Attribution-NonCommercial 4.0 International](https://forthebadge.com/images/badges/cc-by-nd.svg)](http://creativecommons.org/licenses/by-nc/4.0/) ![Built with love](https://forthebadge.com/images/badges/built-with-love.svg) ![Designed in Inkscape](https://forthebadge.com/images/badges/designed-in-inkscape.svg) ![Ctrl C Ctrl V](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
+[![Creative Commons Attribution-NonCommercial 4.0 International](https://forthebadge.com/images/badges/cc-nc.svg)](http://creativecommons.org/licenses/by-nc/4.0/) ![Built with love](https://forthebadge.com/images/badges/built-with-love.svg) ![Designed in Inkscape](https://forthebadge.com/images/badges/designed-in-inkscape.svg) ![Ctrl C Ctrl V](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)
 
 [简体中文](README.md) | [日本語](README.ja.md) | English
 
